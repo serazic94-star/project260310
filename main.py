@@ -3,3 +3,5 @@ def main(n):
 
 N = 0
 print(main(N))
+
+print(2)
